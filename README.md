@@ -1,2 +1,3 @@
-# documentazione
-Repository pubblico contenente la documentazione del progetto
+# Documentazione
+
+In questo repository sono raccolti tutti i documenti prodotti dal gruppo SWEmming Pool.
